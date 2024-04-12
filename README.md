@@ -31,7 +31,7 @@ Rate Limiter (Optional)
 Usage
 1. Installation: Install the necessary dependencies by running pip install -r requirements.txt.
 Configuration: Configure the JWKS server by setting up the encryption key, database connection, and any other required parameters.
-2. Running the Server: Start the JWKS server by running python main.py.
+2. Running the Server: Start the JWKS server by running python main1.py.
 3. User Registration: Users can register accounts by accessing the registration endpoint and providing the required information.
 4. Authentication: Clients can authenticate by requesting JWT tokens from the /auth endpoint.
 5. Logging: Authentication requests and other relevant actions will be logged in the database for auditing purposes.
